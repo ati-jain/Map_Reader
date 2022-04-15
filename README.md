@@ -1,2 +1,2 @@
 # Map_Reader
-Map Reader using xml files
+Map Reader using osm files
